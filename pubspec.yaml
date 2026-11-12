@@ -1,0 +1,68 @@
+name: afribyt
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.10.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^2.0.0
+  google_fonts: ^8.2.1
+  lottie: ^3.3.2
+  flutter_rating_bar: ^4.0.1
+  http: ^1.0.0
+  shared_preferences: ^2.0.0
+  geolocator: ^14.0.2
+  flutter_secure_storage: ^11.2.0
+  jwt_decoder: ^2.0.1
+  shimmer: ^4.0.0
+  intl: ^0.20.3
+  url_launcher: ^6.3.2
+  cached_network_image: ^4.0.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^6.0.0
+  flutter_launcher_icons: ^0.14.4
+
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/8806258-Photoroom.png"
+  adaptive_icon_background: "#B80DF1D4"
+  adaptive_icon_foreground: "assets/8806258-Photoroom.png"
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/Gemini_Generated_Image_olb306olb306olb3-Photoroom.png
+    - assets/gradient-iphone-wallpaper-oil-bubble-water-background.jpg
+    - assets/low-angle-beautiful-city-landscape.jpg
+    - assets/lottie_animation.json
+    - assets/3D White People_ Handyman with a Toolbox Stock Illustration - Illustration of equipment, technician_ 31893160-Photoroom.png
+    - assets/download (3)-Photoroom.png
+    - assets/Smiling Cartoon Mechanic Holding Wrench And Tool Box, Box Clipart, Cartoon Clipart, Wrench Clipart PNG Transparent Image and Clipart for Free Download-Photoroom.png
+    - assets/Ualá - Plenty Studio-Photoroom.png
+    - assets/Happy Labor Day! Cartoon Wrench Fix-It-Photoroom.png
+    - assets/8806258-Photoroom.png
+    - assets/download (2)-Photoroom.png
+    - assets/download (7).jpg
+    - assets/download (5).jpg
+    - assets/download (6).jpg
+    - assets/Eletricista.jpg
+    - assets/network engineer style pixar with two router.jpg
+    - assets/network engineer style pixar with rack resver.jpg
+    - assets/Mesa Appliance Repair Service.jpg
+    - assets/Web design.png
+    - assets/Graphic design.png
+    - assets/mobile development.png
+    - assets/CCTV installation.png
